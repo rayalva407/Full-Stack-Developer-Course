@@ -1,4 +1,4 @@
-public class App {
+public class Assignment1 {
 
     static void one() {
         int i = 0;
@@ -34,12 +34,12 @@ public class App {
             }
             System.out.println("");
         }
-        System.out.println("-----------");
+        System.out.println("---------");
     }
 
     static void four() {
         int num = 4;
-        System.out.println("------------");
+        System.out.println("---------");
         for (int i = num; i >= 1; i--) {
             for (int j = num; j >= i; j--) {
                 System.out.print(" ");
